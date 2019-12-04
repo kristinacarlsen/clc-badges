@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import './pages.css';
-import CLC from './page-images/CLC.png';
+import '../assets/pages.css';
+import CLC from '../images/CLC.png';
 
 class Home extends Component {
     render() {

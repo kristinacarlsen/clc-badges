@@ -11,8 +11,9 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 
 //pages
-import Home from './components/pages/home-page';
-import Shop from './components/pages/shop';
+import Home from './pages/home-page';
+import Shop from './pages/shop';
+import About from './pages/about';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <Header />
         <Route exact path='/' component={Home} />
         <Route exact path='/shop' component={Shop} />
+        <Route exact path='/about' component={About} />
 
       <Footer />
     </div>
