@@ -24,7 +24,7 @@ h1 {
 }
 
 
-/* Shop CSS */
+/* ******Shop CSS****** */
 .container {
     position: absolute;
     margin: 60px;
@@ -69,3 +69,20 @@ h1 {
   .penguin {
     transform: rotate(90deg);
   }
+
+
+/* *****Contact CSS****** */
+
+.contactForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  padding: 50px;
+}
+
+input, textarea {
+  display: block;
+  padding: 10px;
+  margin-top: 5px;
+}
