@@ -70,6 +70,13 @@ h1 {
     transform: rotate(90deg);
   }
 
+ /* ******About CSS****** */
+ .abtContainer {
+   width: 60%;
+   margin: auto;
+   text-align: center;
+ }
+
 
 /* *****Contact CSS****** */
 

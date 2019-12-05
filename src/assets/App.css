@@ -27,6 +27,7 @@ img {
     display: flex;
     flex-direction: row;
     float: right;
+    cursor: pointer;
 }
 
 .logo {
