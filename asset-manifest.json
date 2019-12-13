@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": ":http://kristinacarlsen.github.io/clc-badges/static/css/main.c93d81d9.chunk.css",
+    "main.js": ":http://kristinacarlsen.github.io/clc-badges/static/js/main.ba2c6d8e.chunk.js",
+    "main.js.map": ":http://kristinacarlsen.github.io/clc-badges/static/js/main.ba2c6d8e.chunk.js.map",
+    "runtime-main.js": ":http://kristinacarlsen.github.io/clc-badges/static/js/runtime-main.59e71b3a.js",
+    "runtime-main.js.map": ":http://kristinacarlsen.github.io/clc-badges/static/js/runtime-main.59e71b3a.js.map",
+    "static/js/2.54c26eff.chunk.js": ":http://kristinacarlsen.github.io/clc-badges/static/js/2.54c26eff.chunk.js",
+    "static/js/2.54c26eff.chunk.js.map": ":http://kristinacarlsen.github.io/clc-badges/static/js/2.54c26eff.chunk.js.map",
+    "index.html": ":http://kristinacarlsen.github.io/clc-badges/index.html",
+    "precache-manifest.2ed50ce937132fb4e72af67a2e59ee23.js": ":http://kristinacarlsen.github.io/clc-badges/precache-manifest.2ed50ce937132fb4e72af67a2e59ee23.js",
+    "service-worker.js": ":http://kristinacarlsen.github.io/clc-badges/service-worker.js",
+    "static/css/main.c93d81d9.chunk.css.map": ":http://kristinacarlsen.github.io/clc-badges/static/css/main.c93d81d9.chunk.css.map",
+    "static/media/CLC.png": ":http://kristinacarlsen.github.io/clc-badges/static/media/CLC.c245e48c.png",
+    "static/media/CLCLogo.png": ":http://kristinacarlsen.github.io/clc-badges/static/media/CLCLogo.b64a33d4.png",
+    "static/media/candycane.jpg": ":http://kristinacarlsen.github.io/clc-badges/static/media/candycane.d42626f6.jpg",
+    "static/media/penguin.jpg": ":http://kristinacarlsen.github.io/clc-badges/static/media/penguin.019d95ac.jpg",
+    "static/media/poinsettia.jpg": ":http://kristinacarlsen.github.io/clc-badges/static/media/poinsettia.21e782d1.jpg",
+    "static/media/spider.jpg": ":http://kristinacarlsen.github.io/clc-badges/static/media/spider.abd4c8ac.jpg",
+    "static/media/treeB.jpg": ":http://kristinacarlsen.github.io/clc-badges/static/media/treeB.453a9701.jpg",
+    "static/media/turkey.jpg": ":http://kristinacarlsen.github.io/clc-badges/static/media/turkey.1a6d957a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59e71b3a.js",
+    "static/js/2.54c26eff.chunk.js",
+    "static/css/main.c93d81d9.chunk.css",
+    "static/js/main.ba2c6d8e.chunk.js"
+  ]
+}
